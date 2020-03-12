@@ -8,3 +8,4 @@
 
 ## Links
    * [目录](<preface.md>)
+   * [LintCode](<lintcode.md>)
